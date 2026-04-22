@@ -5,3 +5,6 @@
 [submodule "colourspace"]
 	path = colourspace
 	url = https://github.com/iamyannc/colourspace
+[submodule "ggerror"]
+	path = ggerror
+	url = https://github.com/iamyannc/ggerror
